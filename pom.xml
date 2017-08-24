@@ -55,7 +55,7 @@
 		<dependencies>
 			<dependency>
 				<groupId>com.under</groupId>
-				<artifactId>metrics-bus-api</artifactId>
+				<artifactId>bus-api</artifactId>
 			</dependency>
 
 			<dependency>
